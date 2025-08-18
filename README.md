@@ -32,21 +32,4 @@
 
 ---
 
-### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/poorabjate5859/todo-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=todo-list&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/poorabjate5859/book-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=book-store&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/poorabjate5859/citycare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=citycare&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/poorabjate5859/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=portfolio&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-  </a>
-</p>
