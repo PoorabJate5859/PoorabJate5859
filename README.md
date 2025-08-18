@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="center" style="display: flex; gap: 15px; justify-content: center;">
+<p align="center">
   <a href="https://linkedin.com/in/poorab-jate" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
 
 
 ---
