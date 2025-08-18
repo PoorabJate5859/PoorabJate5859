@@ -3,17 +3,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Poorab+Jate;Full+Stack+Developer;Passionate+about+Building+Web+Experiences;Always+Learning+New+Things" />
 </p>
 
----
 
+---
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/poorab-jate" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  
+  </a>
   <a href="https://instagram.com/poorab_jate32" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
-
+  </a>
 </p>
+
 
 
 
