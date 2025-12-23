@@ -1,34 +1,76 @@
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-    .App-logo {
-        animation: App-logo-spin infinite 20s linear;
-    }
-}
-
-.App-header {
-    background-color: #0f0f10;
+/* Remove default App centering */
+.App {
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
 }
 
-.App-link {
-    color: #61dafb;
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
 }
 
-@keyframes App-logo-spin {
+::-webkit-scrollbar-track {
+    background: #f7f5f2;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #61525a;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4a3f45;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+    outline: 2px solid #61525a;
+    outline-offset: 2px;
+}
+
+/* Animations */
+@keyframes fadeIn {
     from {
-        transform: rotate(0deg);
+        opacity: 0;
+        transform: translateY(20px);
     }
     to {
-        transform: rotate(360deg);
+        opacity: 1;
+        transform: translateY(0);
     }
+}
+
+@keyframes slideInFromBottom {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-in {
+    animation: fadeIn 0.6s ease-out forwards;
+}
+
+.slide-in-from-bottom {
+    animation: slideInFromBottom 0.4s ease-out forwards;
+}
+
+/* Prevent layout shift */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Selection styling */
+::selection {
+    background-color: #61525a;
+    color: white;
 }
